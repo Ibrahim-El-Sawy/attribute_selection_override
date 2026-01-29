@@ -1,0 +1,16 @@
+.pos .configurator_color {
+    width: 90px !important;  
+    height: 90px !important;
+    border-width: 3px !important;
+    margin: 10px !important;
+}
+
+.pos .configurator_color.rounded-circle {
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.pos .color_attribute_list {
+    gap: 20px !important;
+    flex-wrap: wrap;
+}
